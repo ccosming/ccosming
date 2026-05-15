@@ -1,0 +1,1 @@
+[![Carlos Cosming, MBA | Computer Science Engineer](./banner.png)](https://ccosming.com)
